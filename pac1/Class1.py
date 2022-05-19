@@ -1,13 +1,11 @@
 class Student:
     name = "Tom"
     age = 34
-
-    def getdata(self):
+def getdata(self):
         print("hello")
 
 class Child:
     name ="peter"
-
 def get1(self):
     print("welcome")
 

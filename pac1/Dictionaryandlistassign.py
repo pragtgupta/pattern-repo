@@ -25,7 +25,7 @@ for i in list1:
         x=i+j
         print(x)
 
-
+#Q3:
 #Q4:
 Keys = ['Ten','Twenty','Thirty']
 Value = [10,20,30]
