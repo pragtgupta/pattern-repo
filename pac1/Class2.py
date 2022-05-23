@@ -13,6 +13,7 @@ class Apple:
     def color(self):
         print("Red")
 
+#calling the function
 
 def func(obj):
     obj.type()
