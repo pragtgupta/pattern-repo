@@ -20,6 +20,8 @@ for i in l:   #getting each individusal list
 #Q2:
 list1 = ["Hello ", "take "]
 list2 = ["Dear", "Sir"]
+
+
 for i in list1:
     for j in list2:
         x=i+j
