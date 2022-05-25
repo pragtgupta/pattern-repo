@@ -14,6 +14,8 @@ driver = webdriver.Chrome(service=service)
 driver.implicitly_wait(10)
 driver.maximize_window()
 driver.get("http://webdriveruniversity.com/")
+print("-----")
+
 
 wait = WebDriverWait(driver, 6)
 button_clicks = driver.find_element(By.XPATH, "//*[@class='section-title']/h1[contains(text() ,'SCROLLING AROUND')]")
